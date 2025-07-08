@@ -20,7 +20,7 @@ export default function Projects() {
       title: 'Vedanta Nico',
       description: 'Responsive website for showcasing Vedanta chemical products with clean UI',
       tech: ['React', 'TypeScript', 'Tailwind CSS'],
-      image: '/vedanta.jpg',
+      image: '/Vedanta.jpg',
       github: 'https://github.com/Dharanive',
       demo: 'https://vedantanico.in/'
     }

@@ -2373,7 +2373,7 @@ function Projects() {
                 'TypeScript',
                 'Tailwind CSS'
             ],
-            image: '/vedanta.jpg',
+            image: '/Vedanta.jpg',
             github: 'https://github.com/Dharanive',
             demo: 'https://vedantanico.in/'
         }
