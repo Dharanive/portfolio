@@ -8,6 +8,7 @@ import Skills from '@/components/Sections/Skills'
 import Projects from '@/components/Sections/Projects'
 import Contact from '@/components/Sections/contact'
 
+
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
